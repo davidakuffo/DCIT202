@@ -26,11 +26,17 @@ GROUP 23 MEMBERS
 
 
 
-David Offei Akuffo - 10976979
+David Offei Akuffo - 10976979 
+Github useraname: davidakuffo
 Liezah Attakorah-Amaniampong - 10981607
+Github username:
 Pomaa Sali - 10969165
+Github username: Pomaa-Sali1
 Afari biatey Emmanuel -10959048
+Github username: 
 Bismark Afuluife Odinakachukwu - 10973368
+Gihub username: 10973368
 Lily Deynoo - 10974342
+Github username:
 
 
